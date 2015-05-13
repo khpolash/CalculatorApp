@@ -1,0 +1,9 @@
+E:\KHPolash\11 May 2015\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\KHPolash\11 May 2015\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\KHPolash\11 May 2015\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\KHPolash\11 May 2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\KHPolash\11 May 2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+E:\KHPolash\11 May 2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\KHPolash\11 May 2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+E:\KHPolash\11 May 2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\KHPolash\11 May 2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
